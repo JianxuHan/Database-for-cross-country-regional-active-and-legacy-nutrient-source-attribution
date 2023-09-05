@@ -6,7 +6,8 @@ Data Sources:
 The data were collected from water quality monitoring agencies, research institutions, and public data sources in each respective country. The data sources for each country are as follows:   
     Australia: Retrieved from https://data.water.vic.gov.au/.  
     China: Retrieved from the Ministry of Ecology and Environment of the People's Republic of China (nutrient concentration) and the Hydrological Year Book (water discharge). 
-    USA: Retrieved from https://doi.org/10.5281/zenodo.7433379.  
+ 
+ USA: Retrieved from https://doi.org/10.5281/zenodo.7433379.  
     Sweden: Retrieved from https://doi.org/10.5066/P948Z0VZ.
 
 Data Formats and contents:  
