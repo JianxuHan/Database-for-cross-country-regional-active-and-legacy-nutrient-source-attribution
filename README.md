@@ -1,5 +1,5 @@
 # Database-for-cross-country-regional-active-and-legacy-nutrient-source-attribution
-[![DOI](https://zenodo.org/badge/687348576.svg)](https://zenodo.org/badge/latestdoi/687348576)
+[![DOI](https://zenodo.org/badge/687348576.svg)](https://zenodo.org/badge/latestdoi/687348576)  
 This dataset contains nutrient concentration (TN/NH3-N, TP) and water discharge data from Australia, China, Sweden, and the USA.   
 Each country's data is organized into subfolders based on the respective country.
 
